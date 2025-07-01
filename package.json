@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon summarise.js",
+    "start": "node summarise.js",
     "build": "echo 'No build step needed'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
